@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "Bluepill_swd")(type "Legacy")(uri "/home/gvelardez/simo_pcb/repo/Kicad-STM32-master/Symbols/YAAJ_BluePill_Part_Like_SWD_Breakout.lib")(options "")(descr ""))
+  (lib (name "simo_board")(type "KiCad")(uri "${KIPRJMOD}/simo/elemon_board/simo_board.kicad_sym")(options "")(descr ""))
 )
