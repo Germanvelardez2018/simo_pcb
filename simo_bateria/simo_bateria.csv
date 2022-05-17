@@ -1,0 +1,23 @@
+"Source:","/home/gvelardez/simo_pcb/proyecto_definitivo/simo_pcb/simo_pcb/simo_bateria/simo_bateria.kicad_sch"
+"Date:","mar 17 may 2022 08:32:20"
+"Tool:","Eeschema 6.0.4+dfsg-1~bpo11+1"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","4"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","J1","conector salida","Connector:Conn_01x02_Female","Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical","~"
+"","","U1","simo_bateria","simo_shield:simo_bateria","simo_bateria:bateria",""
+"","","U2","cargador_bateria","simo_shield:cargador_bateria","simo_bateria:cargador_bat",""
+"","","U3","conversor_dc","simo_shield:conversor_dc","simo_bateria:conversor_dc_dc",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","1","J1","conector salida","Connector:Conn_01x02_Female","Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical","~"
+"2","1","U1","simo_bateria","simo_shield:simo_bateria","simo_bateria:bateria",""
+"3","1","U2","cargador_bateria","simo_shield:cargador_bateria","simo_bateria:cargador_bat",""
+"4","1","U3","conversor_dc","simo_shield:conversor_dc","simo_bateria:conversor_dc_dc",""
