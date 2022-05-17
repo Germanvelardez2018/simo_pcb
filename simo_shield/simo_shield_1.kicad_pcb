@@ -534,7 +534,7 @@
 
   (footprint "mpu6050:MPU6050" (layer "F.Cu")
     (tedit 627D5C35) (tstamp 81c946d5-7118-46d2-b5fb-2c7bb0340e59)
-    (at 77.5 133.6 -90)
+    (at 68.58 152.4 -90)
     (property "Sheetfile" "simo_pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/7d74dfcc-a812-4ee6-b100-4a35ac98ee2d")
@@ -611,7 +611,7 @@
 
   (footprint "simo_flash:conector_flash_ext" (layer "F.Cu")
     (tedit 627CEDD5) (tstamp b03cb553-3709-44f5-9a1e-0bd7ca2daf93)
-    (at 100 130 -90)
+    (at 106.68 152.4 -90)
     (descr "Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x08 2.54mm single row")
     (property "Sheetfile" "simo_pcb.kicad_sch")
@@ -742,7 +742,7 @@
 
   (footprint "simo:YAAJ_BluePill_SWD_1" (layer "F.Cu")
     (tedit 5F81AFA7) (tstamp d42754be-232c-4f72-91c3-410cdb7a8c00)
-    (at 63 77)
+    (at 68.58 96.52)
     (descr "Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.")
     (tags "module BlluePill Blue Pill header SWD breakout")
     (property "Sheetfile" "simo_pcb.kicad_sch")

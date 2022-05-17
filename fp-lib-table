@@ -1,3 +1,6 @@
 (fp_lib_table
   (lib (name "simo")(type "KiCad")(uri "${KIPRJMOD}/bluepill/Footprints")(options "")(descr ""))
+  (lib (name "elemon")(type "KiCad")(uri "${KIPRJMOD}/simo/elemon_board/Footprints")(options "")(descr ""))
+  (lib (name "simo_flash")(type "KiCad")(uri "${KIPRJMOD}/simo/flash_externa/Footprints")(options "")(descr ""))
+  (lib (name "mpu6050")(type "KiCad")(uri "${KIPRJMOD}/simo/mpu6050/Footprints")(options "")(descr ""))
 )
