@@ -277,7 +277,7 @@
     (uuid a2640cd6-4679-46cc-8715-e2d94b0557dc)
     (property "Reference" "J1" (id 0) (at 74.295 62.23 0))
     (property "Value" "conector salida" (id 1) (at 74.295 64.77 0))
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" (id 2) (at 73.66 69.85 0)
+    (property "Footprint" "" (id 2) (at 73.66 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 73.66 69.85 0)
@@ -333,7 +333,7 @@
 
   (symbol_instances
     (path "/a2640cd6-4679-46cc-8715-e2d94b0557dc"
-      (reference "J1") (unit 1) (value "conector salida") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "conector salida") (footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical")
     )
     (path "/590f98c1-ccf7-4374-aa9a-6dfca30e7789"
       (reference "U1") (unit 1) (value "simo_bateria") (footprint "simo_bateria:bateria")
