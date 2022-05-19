@@ -318,6 +318,7 @@
   )
 
   (gr_rect (start 119 26) (end 142 114) (layer "F.Cu") (width 0.2) (fill none) (tstamp ac81a788-2658-4c17-b2ea-cc380f231319))
+  (gr_rect (start 119 26) (end 142 114) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 31540a7e-dc9e-4e4d-96b1-dab15efa5f4b))
   (gr_text "-\n" (at 125.5 113) (layer "F.SilkS") (tstamp 679f7c23-1b87-4a81-8482-a69cb217ed39)
     (effects (font (size 1 1) (thickness 0.15)))
   )

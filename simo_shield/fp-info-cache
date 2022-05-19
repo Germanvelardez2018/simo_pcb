@@ -1,4 +1,4 @@
-20147655901961443
+20152613457012931
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85651,6 +85651,27 @@ varistor SIOV
 0
 2
 2
+elemon_board
+elemon_board
+
+
+0
+116
+56
+elemon_board
+elemon_board_compact
+
+
+0
+62
+58
+elemon_board
+elemon_board_template
+
+
+0
+0
+0
 simo_flash
 conector_flash_ext
 Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
