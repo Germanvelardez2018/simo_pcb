@@ -1,5 +1,5 @@
 "Source:","/home/gvelardez/simo_pcb/proyecto_definitivo/simo_pcb/simo_pcb/simo_shield/simo_shield_1.kicad_sch"
-"Date:","mar 17 may 2022 11:11:35"
+"Date:","mar 31 may 2022 16:10:22"
 "Tool:","Eeschema 6.0.4+dfsg-1~bpo11+1"
 "Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
 "Component Count:","5"
@@ -7,19 +7,19 @@
 "Individual Components:"
 
 "Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
-"","","J1","PORT SWD","Connector:Conn_01x04_Female","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~"
+"","","J2","VBAT","Connector:Conn_01x02_Female","Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical","~"
 "","","U1","YAAJ_BluePill_Part_Like_SWD_Breakout","Bluepill_swd:YAAJ_BluePill_Part_Like_SWD_Breakout","simo:YAAJ_BluePill_SWD_1",""
-"","","U2","elemon_board","simo_board:elemon_board","elemon:elemon_board",""
+"","","U2","elemon_board","simo_board:elemon_board","elemon_board:elemon_board",""
 "","","U3","flash_externa","simo_board:flash_externa","simo_flash:conector_flash_ext",""
-"","","U4","mpu6050","simo_board:mpu6050","mpu6050:MPU6050",""
+"","","U4","mpu6050","simo_board:mpu6050","simo_mpu6050:MPU6050",""
 
 
 
 "Collated Components:"
 
 "Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
-"1","1","J1","PORT SWD","Connector:Conn_01x04_Female","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~"
+"1","1","J2","VBAT","Connector:Conn_01x02_Female","Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical","~"
 "2","1","U1","YAAJ_BluePill_Part_Like_SWD_Breakout","Bluepill_swd:YAAJ_BluePill_Part_Like_SWD_Breakout","simo:YAAJ_BluePill_SWD_1",""
-"3","1","U2","elemon_board","simo_board:elemon_board","elemon:elemon_board",""
+"3","1","U2","elemon_board","simo_board:elemon_board","elemon_board:elemon_board",""
 "4","1","U3","flash_externa","simo_board:flash_externa","simo_flash:conector_flash_ext",""
-"5","1","U4","mpu6050","simo_board:mpu6050","mpu6050:MPU6050",""
+"5","1","U4","mpu6050","simo_board:mpu6050","simo_mpu6050:MPU6050",""
