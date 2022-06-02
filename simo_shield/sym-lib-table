@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "YAAJ_BluePill_Part_Like_SWD_Breakout")(type "Legacy")(uri "${KIPRJMOD}/../simo/bluepill/simbolos/YAAJ_BluePill_Part_Like_SWD_Breakout.lib")(options "")(descr ""))
+  (lib (name "YAAJ_BluePill_SWD_Breakout")(type "Legacy")(uri "${KIPRJMOD}/../simo/bluepill/simbolos/YAAJ_BluePill_SWD_Breakout.lib")(options "")(descr ""))
+  (lib (name "simo_boardELEMON_BOARD")(type "KiCad")(uri "${KIPRJMOD}/../simo/elemon_board/simo_board.kicad_sym")(options "")(descr ""))
+  (lib (name "simo_board")(type "KiCad")(uri "${KIPRJMOD}/../simo/elemon_board/simo_board.kicad_sym")(options "")(descr ""))
+  (lib (name "modulo_flash")(type "KiCad")(uri "${KIPRJMOD}/../simo/flash_externa/modulo_flash.kicad_sym")(options "")(descr ""))
+  (lib (name "mpu6050")(type "KiCad")(uri "${KIPRJMOD}/../simo/mpu6050/mpu6050.kicad_sym")(options "")(descr ""))
+)

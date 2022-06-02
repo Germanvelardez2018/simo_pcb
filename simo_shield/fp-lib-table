@@ -1,6 +1,6 @@
 (fp_lib_table
-  (lib (name "Connectors_USB")(type "KiCad")(uri "/home/gvelardez/simo_pcb/proyecto_definitivo/simo_pcb/simo_pcb/Connectors_USB.pretty-master")(options "")(descr ""))
-  (lib (name "simo_flash")(type "KiCad")(uri "/home/gvelardez/simo_pcb/proyecto_definitivo/simo_pcb/simo_pcb/simo/flash_externa/Footprints")(options "")(descr ""))
-  (lib (name "simo_mpu6050")(type "KiCad")(uri "/home/gvelardez/simo_pcb/proyecto_definitivo/simo_pcb/simo_pcb/simo/mpu6050/Footprints")(options "")(descr ""))
-  (lib (name "elemon_board")(type "KiCad")(uri "/home/gvelardez/simo_pcb/proyecto_definitivo/simo_pcb/simo_pcb/simo/elemon_board/Footprints")(options "")(descr ""))
+  (lib (name "simo_flash")(type "KiCad")(uri "${KIPRJMOD}/../simo/flash_externa/Footprints")(options "")(descr ""))
+  (lib (name "simo_mpu6050")(type "KiCad")(uri "${KIPRJMOD}/../simo/mpu6050/Footprints")(options "")(descr ""))
+  (lib (name "elemon_board")(type "KiCad")(uri "${KIPRJMOD}/../simo/elemon_board/Footprints")(options "")(descr ""))
+  (lib (name "bluepill")(type "KiCad")(uri "${KIPRJMOD}/../simo/bluepill/Footprints")(options "")(descr ""))
 )
