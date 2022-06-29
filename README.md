@@ -39,12 +39,12 @@ Para realizar la conexion de los distintos elementos se diseñara dos placas PCB
        </div>
   *  **Memoria flash externa para almacenar datos** (AT45DB)
      <div align="center" >
-       <img  src="img/at45dbxxx.jpg" border="1px" 
+       <img  src="img/at45dbxx.jpg" border="1px" 
             height="320px" width="480px"/>
        </div>
   *  **Conector para acceso a puerto UART de debug**
      <div align="center" >
-       <img  src="img/uart_debug.png" border="1px" 
+       <img  src="img/uart_debug.jpg" border="1px" 
             height="320px" width="480px"/>
        </div>
 
