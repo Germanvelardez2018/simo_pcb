@@ -4,14 +4,6 @@
 
   (paper "A4")
 
-  (title_block
-    (title "Simo bateria")
-    (date "2022-06-29")
-    (rev "Gusta Rodriguez")
-    (company "I.N.T.I")
-    (comment 1 "Autor: German Velardez")
-  )
-
   (lib_symbols
     (symbol "Connector:Conn_01x02_Male" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 2.54 0)
@@ -209,6 +201,7 @@
       )
     )
   )
+
 
   (junction (at 78.74 64.77) (diameter 0) (color 0 0 0 0)
     (uuid 8278c934-4b91-4a82-b287-96724da67ad8)
