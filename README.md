@@ -24,28 +24,28 @@ Para realizar la conexion de los distintos elementos se diseñara dos placas PCB
   * **Placa de desarrollo basada en STM33F103xx** (Bluepill)
       <div align="center" >
      <img  src="img/STM32F103CB_1.jpg" border="1px" 
-          height="320px" width="480px"/>
+          height="240px" width="320px"/>
      </div>
 
   *  **Modulo comunicacion 4G  diseñado por Elemon** (EESA-IOT SIM7000G PLACA SHIELD 2G/CAT-M1/NB1/GNSS)
       <div align="center" >
        <img  src="img/elemon_board.png" border="1px" 
-            height="320px" width="480px"/>
+            height="240px" width="320px"/>
        </div>
   *  **Sensor acelerometro** (MPU6050)
      <div align="center" >
        <img  src="img/mpu6050.jpeg" border="1px" 
-            height="320px" width="480px"/>
+            height="240px" width="320px"/>
        </div>
   *  **Memoria flash externa para almacenar datos** (AT45DB)
      <div align="center" >
        <img  src="img/at45dbxx.jpg" border="1px" 
-            height="320px" width="480px"/>
+            height="240px" width="320px"/>
        </div>
   *  **Conector para acceso a puerto UART de debug**
      <div align="center" >
        <img  src="img/uart_debug.jpg" border="1px" 
-            height="320px" width="480px"/>
+            height="240px" width="280px"/>
        </div>
 
 
