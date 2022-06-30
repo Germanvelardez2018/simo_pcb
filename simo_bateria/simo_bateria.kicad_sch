@@ -358,7 +358,7 @@
     (uuid 11fd5699-de88-4095-a2ac-268b5557a2ec)
     (property "Reference" "11" (id 0) (at 95.377 50.8 0))
     (property "Value" "conversor_dc_1_1" (id 1) (at 95.377 53.34 0))
-    (property "Footprint" "" (id 2) (at 84.582 53.34 0)
+    (property "Footprint" "simo_bateria:conversor_dc_dc" (id 2) (at 84.582 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 84.582 53.34 0)
@@ -473,7 +473,7 @@
       (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/11fd5699-de88-4095-a2ac-268b5557a2ec"
-      (reference "11") (unit 1) (value "conversor_dc_1_1") (footprint "")
+      (reference "11") (unit 1) (value "conversor_dc_1_1") (footprint "simo_bateria:conversor_dc_dc")
     )
     (path "/0e1c8888-24a9-448a-8220-c54ef612d9ed"
       (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "simo_bateria:BatteryHolder_MPD_BH-18650-PC2")
