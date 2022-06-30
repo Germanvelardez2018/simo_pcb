@@ -15,8 +15,8 @@
 
 El proyecto consiste en el diseño y prueba de concepto de un dispositivo tipo drifter basado en una placa de desarrollo y modulos tipo arduino.
 Para realizar la conexion de los distintos elementos se diseñara dos placas PCB:
-*  **Simo Shield**
-*  **Simo Bateria**
+*  **Simo Shield** (dentro de carpeta simo_shield)
+*  **Simo Bateria** (dentro de carpeta sdimo_bateria)
 
 
 ## Simo Shield
