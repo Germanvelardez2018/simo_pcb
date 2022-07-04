@@ -5,11 +5,14 @@
   (paper "A4")
 
   (title_block
-    (title "Simo bateria")
+    (title "Simo bateria, PCB de conexion")
     (date "2022-06-29")
-    (rev "Gusta Rodriguez")
+    (rev "0001")
     (company "I.N.T.I")
-    (comment 1 "Autor: German Velardez")
+    (comment 1 "Revisor: Gustavo Rodriguez")
+    (comment 2 "Autor:   German Velardez")
+    (comment 3 "Licencia: CERN Open Hardware Licence Version 2")
+    (comment 4 "Placa de conexion para elementos de la bateria.")
   )
 
   (lib_symbols
@@ -356,7 +359,7 @@
   (symbol (lib_id "simo_bateria:conversor_dc_1_1") (at 84.582 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 11fd5699-de88-4095-a2ac-268b5557a2ec)
-    (property "Reference" "11" (id 0) (at 95.377 50.8 0))
+    (property "Reference" "U1" (id 0) (at 95.377 50.8 0))
     (property "Value" "conversor_dc_1_1" (id 1) (at 95.377 53.34 0))
     (property "Footprint" "simo_bateria:conversor_dc_dc" (id 2) (at 84.582 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -398,7 +401,7 @@
     (property "Value" "CONECTOR PLUG IN (5V)" (id 1) (at 124.46 45.0849 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical" (id 2) (at 122.682 43.18 0)
+    (property "Footprint" "simo_bateria:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical" (id 2) (at 122.682 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 122.682 43.18 0)
@@ -451,7 +454,7 @@
     (property "Value" "CONECTOR BATERIA( 8V)" (id 1) (at 66.929 30.4799 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical" (id 2) (at 65.786 28.575 0)
+    (property "Footprint" "simo_bateria:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical" (id 2) (at 65.786 28.575 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 65.786 28.575 0)
@@ -472,9 +475,6 @@
     (path "/be968050-f6bb-4281-b884-b98d3ee6f6cc"
       (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/11fd5699-de88-4095-a2ac-268b5557a2ec"
-      (reference "11") (unit 1) (value "conversor_dc_1_1") (footprint "simo_bateria:conversor_dc_dc")
-    )
     (path "/0e1c8888-24a9-448a-8220-c54ef612d9ed"
       (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "simo_bateria:BatteryHolder_MPD_BH-18650-PC2")
     )
@@ -482,10 +482,13 @@
       (reference "BT2") (unit 1) (value "Battery_Cell") (footprint "simo_bateria:BatteryHolder_MPD_BH-18650-PC2")
     )
     (path "/cd0b3651-2ed3-41e3-88cd-89e3b9462bf8"
-      (reference "J1") (unit 1) (value "CONECTOR BATERIA( 8V)") (footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical")
+      (reference "J1") (unit 1) (value "CONECTOR BATERIA( 8V)") (footprint "simo_bateria:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical")
     )
     (path "/94003890-1ebb-4a1a-91b8-849e4df6bd6b"
-      (reference "J2") (unit 1) (value "CONECTOR PLUG IN (5V)") (footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical")
+      (reference "J2") (unit 1) (value "CONECTOR PLUG IN (5V)") (footprint "simo_bateria:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical")
+    )
+    (path "/11fd5699-de88-4095-a2ac-268b5557a2ec"
+      (reference "U1") (unit 1) (value "conversor_dc_1_1") (footprint "simo_bateria:conversor_dc_dc")
     )
   )
 )
