@@ -1994,7 +1994,7 @@
     (uuid 50ab3c25-18ac-4348-9b10-e46fc412d281)
     (property "Reference" "U1" (id 0) (at 35.56 151.257 0))
     (property "Value" "modulo_flash_externa" (id 1) (at 35.56 153.797 0))
-    (property "Footprint" "simo_board:conector_flash_ext" (id 2) (at 48.26 156.972 0)
+    (property "Footprint" "simo_shield:conector_flash_ext" (id 2) (at 48.26 156.972 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://pdf1.alldatasheet.com/datasheet-pdf/view/546006/ETC2/AT45DB041E.html" (id 3) (at 48.26 156.972 0)
@@ -2095,7 +2095,7 @@
     (property "Value" "conector_bateria" (id 1) (at 255.651 119.8879 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical" (id 2) (at 243.967 108.458 0)
+    (property "Footprint" "simo_shield:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical" (id 2) (at 243.967 108.458 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 247.777 116.078 0)
@@ -2182,10 +2182,10 @@
       (reference "J1") (unit 1) (value "modulo_usb_debug") (footprint "simo_shield:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical")
     )
     (path "/aa8a4ce4-263f-4980-8d9f-4f0f7a62a8f5"
-      (reference "J2") (unit 1) (value "conector_bateria") (footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical")
+      (reference "J2") (unit 1) (value "conector_bateria") (footprint "simo_shield:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical")
     )
     (path "/50ab3c25-18ac-4348-9b10-e46fc412d281"
-      (reference "U1") (unit 1) (value "modulo_flash_externa") (footprint "simo_board:conector_flash_ext")
+      (reference "U1") (unit 1) (value "modulo_flash_externa") (footprint "simo_shield:conector_flash_ext")
     )
     (path "/4e546ac2-24a9-4fe8-8ba3-1b8a7c4f035f"
       (reference "U2") (unit 1) (value "elemon_board") (footprint "simo_shield:elemon_board")
