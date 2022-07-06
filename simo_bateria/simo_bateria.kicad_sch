@@ -476,7 +476,7 @@
     (property "Value" "Battery_Cell" (id 1) (at 137.16 98.2979 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "resistores:trimmer_bourns_3250w" (id 2) (at 133.35 97.536 90)
+    (property "Footprint" "simo_bateria:BatteryHolder_MPD_BH-18650-PC2" (id 2) (at 133.35 97.536 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 133.35 97.536 90)
@@ -512,7 +512,7 @@
     (property "Value" "155k" (id 1) (at 104.14 106.6799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 99.822 105.41 90)
+    (property "Footprint" "simo_bateria:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 99.822 105.41 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 101.6 105.41 0)
@@ -569,7 +569,7 @@
     (property "Value" "355k" (id 1) (at 104.14 97.7899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 99.822 96.52 90)
+    (property "Footprint" "simo_bateria:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 99.822 96.52 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 101.6 96.52 0)
@@ -640,7 +640,7 @@
       (reference "#FLG02") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/0e1c8888-24a9-448a-8220-c54ef612d9ed"
-      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "resistores:trimmer_bourns_3250w")
+      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "simo_bateria:BatteryHolder_MPD_BH-18650-PC2")
     )
     (path "/6ee16ed8-9642-4dca-a183-41d6990007c4"
       (reference "BT2") (unit 1) (value "Battery_Cell") (footprint "simo_bateria:BatteryHolder_MPD_BH-18650-PC2")
@@ -652,10 +652,10 @@
       (reference "J2") (unit 1) (value "conector_bateria") (footprint "simo_bateria:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical")
     )
     (path "/8da78f3b-5575-47f1-9326-e93636a9e26c"
-      (reference "R1") (unit 1) (value "355k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R1") (unit 1) (value "355k") (footprint "simo_bateria:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/2a9711d0-b0e4-422e-9cee-c254b4155632"
-      (reference "R2") (unit 1) (value "155k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R2") (unit 1) (value "155k") (footprint "simo_bateria:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/11fd5699-de88-4095-a2ac-268b5557a2ec"
       (reference "U1") (unit 1) (value "conversor_dc_1_1") (footprint "simo_bateria:conversor_dc_dc")
