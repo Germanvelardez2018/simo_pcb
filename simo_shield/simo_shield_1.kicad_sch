@@ -1312,7 +1312,6 @@
   (no_connect (at 173.99 107.95) (uuid d59e7dd4-10b8-43c3-8153-9ebd5dc49350))
   (no_connect (at 173.99 116.84) (uuid d59e7dd4-10b8-43c3-8153-9ebd5dc49351))
   (no_connect (at 127 115.57) (uuid d59e7dd4-10b8-43c3-8153-9ebd5dc49352))
-  (no_connect (at 173.99 90.17) (uuid eeca3f39-0c7a-4b76-a138-2186439f02b1))
 
   (wire (pts (xy 173.99 110.49) (xy 176.53 110.49))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -1331,6 +1330,10 @@
     (uuid 0c113a33-648b-4cd6-b4cc-51def24f5dff)
   )
 
+  (wire (pts (xy 173.99 90.17) (xy 176.53 90.17))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 0dc59842-48ec-42a2-a375-f378449e2509)
+  )
   (wire (pts (xy 173.99 95.25) (xy 176.53 95.25))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0e124a80-1839-4425-84cd-065fd11c3be8)
@@ -1614,10 +1617,6 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid f3e1d1c9-812d-44cc-9f84-2b044b188dd3)
   )
-  (wire (pts (xy 173.99 97.79) (xy 176.53 97.79))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid f6663d06-bfb9-46e4-9e52-b9ac1861fed6)
-  )
   (wire (pts (xy 54.61 162.56) (xy 63.5 162.56))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid f948a151-1c7e-4164-8260-a19937aa2a4b)
@@ -1642,7 +1641,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 839d33cb-d9b8-4b8b-8adb-e68b3d4c5003)
   )
-  (text "ELEMON BOARD: BASADA EN SIM7000G\n\nPIN_SIM_ENA_BAT    -------> PA1 (EN FIRMWARE ES PB12. MODIFICAR)\nPIN_SIM_PWRUP     -------> PA11 (EN FIRMWARE ES PB13)\nPIN_AT_TX	     -------> PA10\nPIN_AT_RX	     -------> PA9\nPIN_RI			-------> PA11"
+  (text "ELEMON BOARD: BASADA EN SIM7000G\n\nPIN_SIM_ENA_BAT    -------> PA1 (EN FIRMWARE ES PB12. MODIFICAR)\nPIN_SIM_PWRUP     -------> PA11 (EN FIRMWARE ES PB13)\nPIN_AT_TX	     -------> PA10\nPIN_AT_RX	     -------> PA9\nPIN_RI			-------> PA4"
     (at 18.415 34.29 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8a0670bd-bc94-406f-92f4-77c5a0fb35b1)
@@ -1708,7 +1707,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e30e2cb8-9735-4a08-94d7-40cc5f8adaa8)
   )
-  (label "BAT_ENA_PIN" (at 176.53 97.79 0)
+  (label "BAT_ENA_PIN" (at 176.53 90.17 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e56a68ff-921f-49b7-958f-a7cac6a00476)
   )
