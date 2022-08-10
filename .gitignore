@@ -10,28 +10,80 @@ fp-info-cache
 # Format documentation: https://kicad.org/help/file-formats/
 
 # Temporary files
-*.000
-*.bak
-*.bck
-*.kicad_pcb-bak
-*.kicad_sch-bak
-*-backups
-*.kicad_prl
-*.sch-bak
-*~
-_autosave-*
-*.tmp
-*-save.pro
-*-save.kicad_pcb
-fp-info-cache
+simo_shield/*.000
+simo_shield/*.bak
+simo_shield/*.bck
+simo_shield/*.kicad_pcb-bak
+simo_shield/*.kicad_sch-bak
+simo_shield/*-backups
+simo_shield/*.kicad_prl
+simo_shield/*.sch-bak
+simo_shield/*~
+simo_shield/_autosave-*
+simo_shield/*.tmp
+simo_shield/*-save.pro
+simo_shield/*-save.kicad_pcb
+simo_shield/fp-info-cache
 
 # Netlist files (exported from Eeschema)
-*.net
+simo_shield/*.net
 
 # Autorouter files (exported from Pcbnew)
-*.dsn
-*.ses
+simo_shield/*.dsn
+simo_shield/*.ses
 
 # Exported BOM files
-*.xml
-*.csv
+simo_shield/*.xml
+simo_shield/*.csv
+
+
+
+
+
+
+
+
+
+
+# For PCBs designed using KiCad: https://www.kicad.org/
+# Format documentation: https://kicad.org/help/file-formats/
+
+
+
+
+simo_bateria/fp-info-cache
+/simo_bateria/fp-info-cache
+
+
+# Temporary files
+simo_bateria/*.000
+simo_bateria/*.bak
+simo_bateria/*.bck
+simo_bateria/*.kicad_pcb-bak
+simo_bateria/*.kicad_sch-bak
+simo_bateria/*-backups
+simo_bateria/*.kicad_prl
+simo_bateria/*.sch-bak
+simo_bateria/*~
+simo_bateria/_autosave-*
+simo_bateria/*.tmp
+simo_bateria/*-save.pro
+simo_bateria/*-save.kicad_pcb
+simo_bateria/fp-info-cache
+
+# Netlist files (exported from Eeschema)
+simo_bateria/*.net
+
+# Autorouter files (exported from Pcbnew)
+simo_bateria/*.dsn
+simo_bateria/*.ses
+
+# Exported BOM files
+simo_bateria/*.xml
+simo_bateria/*.csv
+
+
+
+
+
+
