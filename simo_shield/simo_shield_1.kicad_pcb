@@ -1418,10 +1418,10 @@
       (net 4 "unconnected-(U2-Pad7)") (pinfunction "/WP") (pintype "input+no_connect") (tstamp 19abb117-5eaa-4bde-a1d0-2fe28240f812))
     (pad "8" thru_hole oval (at 0 17.78 270) (size 2.4 1.6) (drill 1) (layers *.Cu *.Mask)
       (net 5 "unconnected-(U2-Pad8)") (pinfunction "/RST") (pintype "input+no_connect") (tstamp 849c167c-f785-4c7b-a1d3-e4274be3259d))
-    (model "${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KIPRJMOD}/libs/3d_models/flash_externa/Product_TF Micro SD Card Memory Modul Arduino.STEP"
+      (offset (xyz 37.5 -9.5 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
@@ -1614,25 +1614,25 @@
       (net 59 "unconnected-(U1-Pad55)") (pinfunction "ESP_RXD0") (pintype "bidirectional+no_connect") (tstamp f4937c9b-45b3-4938-8d25-8fd9befb213a))
     (pad "56" thru_hole circle (at 56.2 77.22) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 60 "unconnected-(U1-Pad56)") (pinfunction "ESP_TXD0") (pintype "bidirectional+no_connect") (tstamp b1db8e18-919a-47f1-b240-a54aedc56a72))
-    (model "${KIPRJMOD}/libs/3d_models/conn/Pin Header Male 02x10 P2.54mm.stp"
-      (offset (xyz 3 -7 0))
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x10_P2.54mm_Vertical.step"
+      (offset (xyz 5.5 -7 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/libs/3d_models/conn/Pin Header Male 02x16 P2.54mm.stp"
-      (offset (xyz 3 -34.5 -0.5))
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x14_P2.54mm_Vertical.step"
+      (offset (xyz 56.5 -44 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/libs/3d_models/conn/Pin Header Male 02x16 P2.54mm.stp"
-      (offset (xyz 57 -2.5 0))
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x16_P2.54mm_Vertical.step"
+      (offset (xyz 6 -35 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/libs/3d_models/conn/Pin Header Male 02x16 P2.54mm.stp"
-      (offset (xyz 57 -39 0))
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x16_P2.54mm_Vertical.step"
+      (offset (xyz 56.5 -2.5 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 0))
     )
   )
 
