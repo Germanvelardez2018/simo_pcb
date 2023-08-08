@@ -1,0 +1,5 @@
+Trazado a '/home/germanv/Documentos/repos/simo-pcb/simo_shield/Gerber/simo_shield_1-B_Cu.gbr'.
+Trazado a '/home/germanv/Documentos/repos/simo-pcb/simo_shield/Gerber/simo_shield_1-Edge_Cuts.gbr'.
+Trazado a '/home/germanv/Documentos/repos/simo-pcb/simo_shield/Gerber/simo_shield_1-Margin.gbr'.
+Archivo de trabajo Gerber '/home/germanv/Documentos/repos/simo-pcb/simo_shield/Gerber/simo_shield_1-job.gbrjob' creado.
+Info: Listo.

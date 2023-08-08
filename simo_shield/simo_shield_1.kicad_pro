@@ -402,7 +402,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "3d_files/simo_shield_1.step",
+      "step": "../simo_shield_1.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
