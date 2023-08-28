@@ -1,3 +1,0 @@
-Info: Se ha creado la carpeta de salida 'C:\Users\germandev\Documents\impresiones'.
-Plotted to 'C:\Users\germandev\Documents\impresiones\simo_shield_1-B_Cu.ps'.
-Info: Listo.
