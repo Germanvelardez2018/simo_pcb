@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "simo_bateria")(type "KiCad")(uri "${KIPRJMOD}/libs/simbols/simo_bateria.kicad_sym")(options "")(descr ""))
+  (lib (name "mt3608")(type "KiCad")(uri "${KIPRJMOD}/libs/simbols/mt3608.pretty/mt3608.kicad_sym")(options "")(descr ""))
+  (lib (name "bss314peh627xtsa1ct-nd")(type "KiCad")(uri "${KIPRJMOD}/libs/simbols/2023-04-18_17-34-31.kicad_sym")(options "")(descr ""))
+)

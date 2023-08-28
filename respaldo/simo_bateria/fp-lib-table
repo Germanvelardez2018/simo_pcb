@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "simo_bateria")(type "KiCad")(uri "${KIPRJMOD}/libs/simo_bateria.pretty")(options "")(descr ""))
+  (lib (name "mt3608")(type "KiCad")(uri "${KIPRJMOD}/libs/simbols/mt3608.pretty")(options "")(descr ""))
+)

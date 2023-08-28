@@ -1,0 +1,4 @@
+Trazado a '/home/germanv/Documentos/repos/simo-pcb/simo_shield/Gerber/simo_shield_1-B_Cu.ps'.
+Trazado a '/home/germanv/Documentos/repos/simo-pcb/simo_shield/Gerber/simo_shield_1-Edge_Cuts.ps'.
+Trazado a '/home/germanv/Documentos/repos/simo-pcb/simo_shield/Gerber/simo_shield_1-Margin.ps'.
+Info: Listo.
